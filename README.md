@@ -12,7 +12,7 @@ pip install jacobi
 ```
 ## Usage
 usage: jacobi.py [-h] [-e EPSILON] [-t THREADS] filepath
-
+```
 Jacobi calc.
 
 positional arguments:
@@ -24,3 +24,4 @@ options:
                         Calculation error.
   -t THREADS, --threads THREADS
                         Number of parallel threads.
+```
